@@ -15,6 +15,7 @@ body{
 	color: black;
 	font-size: 70px;
 	border-bottom: 2px solid black;
+	text-shadow: 2px 2px white;
 
 
 }
@@ -26,7 +27,7 @@ body{
 
 }
 .gamerules{
-	font-size: 66px;
+	font-size: 67px;
 	text-decoration: underline;
 
 }
